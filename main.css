@@ -1,0 +1,26 @@
+@charset "utf-8";
+#banner {
+	height: 313px;
+	min-width: 0px;
+	width: 627px;
+	margin-left: 0px;
+
+}
+#nav {
+	width: 500px;
+	height: 80px;
+	margin-right: px;
+	margin-left: 200px;
+	top: 0px;
+	left: 0px;
+
+}
+text  {
+	color: #21E8F9;
+	text-align: center;
+	text-indent: 20px;
+}
+.tattoo.artwork img div {
+	text-align: center;
+	width: 0px;
+}
